@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.exe
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.deps.json
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.dll
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\bin\Debug\netcoreapp3.1\TeamProject.pdb
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.dll
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.pdb
+C:\Users\GREAT\Desktop\C# Assignment\TeamProject\obj\Debug\netcoreapp3.1\TeamProject.genruntimeconfig.cache
